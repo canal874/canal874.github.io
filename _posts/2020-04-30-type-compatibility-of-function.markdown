@@ -6,7 +6,7 @@ categories: typescript
 ---
 Test of TypeScript's type compatibility in comparing functions including void type.
 
-<script src="http://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-voidtype/raw/master/function_compare01.ts?slice=5:"></script>
+<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-voidtype/raw/master/function_compare01.ts?slice=5:"></script>
 
-<script src="http://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-voidtype/raw/master/function_compare02.ts?slice=5:"></script>
+<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-voidtype/raw/master/function_compare02.ts?slice=5:"></script>
 
