@@ -10,5 +10,5 @@ Test of TypeScript's type compatibility in comparing functions including void ty
 
 <script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-voidtype/raw/master/function_compare02.ts?slice=5:"></script>
 
-<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-voidtype/raw/master/function_compare_ex.ts?slice=5:"></script>
+<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-voidtype/raw/master/function_compare_ex.ts"></script>
 
