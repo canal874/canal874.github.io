@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TypeScript examples of interfaces for both static side and instance side of a class"
-date:   2020-05-11 22:31:00 +0900
+date:   2020-05-11 22:32:00 +0900
 categories: typescript
 ---
 TypeScript examples of interfaces for both static side and instance side of a class.
