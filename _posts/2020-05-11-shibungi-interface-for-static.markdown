@@ -12,7 +12,7 @@ A static property cannot be defined on an interface in TypeScript. There are thr
 - Is it necessary in the first place? When do you need it?
 - How it should be if it is added to the language specification?
 
-This article deal with the first topic.
+This article deals with the first topic.
 
 <script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-interface-for-static/raw/master/constructor-test01.ts?slice=5:"></script>
 
