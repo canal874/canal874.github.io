@@ -14,18 +14,18 @@ A static property cannot be defined on an interface in TypeScript. There are thr
 
 This article deals with the first topic.
 
-<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-interface-for-static/raw/master/constructor-test01.ts?slice=5:"></script>
+<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-interface-for-static/raw/master/statictest01.ts?slice=5:"></script>
 
-<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-interface-for-static/raw/master/constructor-test02.ts?slice=5:"></script>
+<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-interface-for-static/raw/master/statictest02.ts?slice=5:"></script>
 
-<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-interface-for-static/raw/master/constructor-test03.ts?slice=5:"></script>
+<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-interface-for-static/raw/master/statictest03.ts?slice=5:"></script>
 
-<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-interface-for-static/raw/master/constructor-test04.ts?slice=5:"></script>
+<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-interface-for-static/raw/master/statictest04.ts?slice=5:"></script>
 
-<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-interface-for-static/raw/master/constructor-test05.ts?slice=5:"></script>
+<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-interface-for-static/raw/master/statictest05.ts?slice=5:"></script>
 
-<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-interface-for-static/raw/master/constructor-test06.ts?slice=5:"></script>
+<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-interface-for-static/raw/master/statictest06.ts?slice=5:"></script>
 
-<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-interface-for-static/raw/master/constructor-test07.ts?slice=5:"></script>
+<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-interface-for-static/raw/master/statictest07.ts?slice=5:"></script>
 
-<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-interface-for-static/raw/master/constructor-test08.ts?slice=5:"></script>
+<script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-interface-for-static/raw/master/statictest08.ts?slice=5:"></script>
