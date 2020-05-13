@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Thirteen TypeScript examples of type compatibility in comparing functions including void type"
+title:  "13 TypeScript examples of type compatibility in comparing functions including void type"
 date:   2020-04-30 14:02:54 +0900
 categories: typescript
 ---
-Thirteen TypeScript examples of type compatibility in comparing functions including void type.
+13 TypeScript examples of type compatibility in comparing functions including void type.
 
 <script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-voidtype/raw/master/function_compare01.ts?slice=5:"></script>
 

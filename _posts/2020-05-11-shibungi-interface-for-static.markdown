@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Eight TypeScript examples of interfaces for both static side and instance side of a class"
+title:  "8 TypeScript examples of interfaces for both static side and instance side of a class"
 date:   2020-05-11 22:32:00 +0900
 categories: typescript
 ---
-Eight TypeScript examples of interfaces for both static side and instance side of a class.
+8 TypeScript examples of interfaces for both static side and instance side of a class.
 
 A static property cannot be defined on an interface in TypeScript. There are three topics about it:
 

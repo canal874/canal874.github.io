@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Six TypeScript examples of Singleton Pattern"
+title:  "6 TypeScript examples of Singleton Pattern"
 date:   2020-05-12 18:16:00 +0900
 categories: typescript
 ---
-Six TypeScript examples of Sigleton Pattern.
+6 TypeScript examples of Sigleton Pattern.
 
 <script src="https://gist-it.appspot.com/https://github.com/canal874/shibungi-tstest-singleton/raw/master/singleton01.ts?slice=5:"></script>
 
